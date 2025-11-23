@@ -5,3 +5,5 @@ Just a random person that want to make a free clock on mac desktop!
 EAST TO USE, JUST DOWNLOAD!!! YOU WILL FIGER IT OUT lol :)
 
 INSTALL: Download SimpleDeskClock2.2.dmg
+
+<a href="" target="_self"><img width="200" src="https://github.com/user-attachments/assets/e3179be1-8416-4b8a-b417-743e1ecc67d6" alt="Download for macOS" /></a>
