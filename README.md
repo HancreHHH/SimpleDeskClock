@@ -86,3 +86,4 @@
 <h2 style="font-family: 'Inter','SF Pro', Arial;">📌 Changelog</h2>
 <ul style="font-family: 'Inter','SF Pro', Arial; line-height: 1.6;">
   <li><s
+<hr> <p align="center" style="font-family: 'Inter','SF Pro', Arial; font-size: 14px; opacity: 0.7;"> Built with ☕ + ⌨️ by <strong>Henry H</strong> </p>
