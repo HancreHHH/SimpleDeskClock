@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center" style="font-size: 16px; font-family: 'Inter','SF Pro', Arial, sans-serif;">
-  • <strong>Version 2.2</strong> • <br>
+  • <strong>Version 2.2</strong> •<br>
   <a href="https://forms.gle/ignnbx8xVHA93BPy9" target="_blank" rel="noopener">💬 Submit Feedback</a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <h2 style="font-family: 'Inter','SF Pro', Arial;">✨ Overview</h2>
 <p style="font-family: 'Inter','SF Pro', Arial;">
-  <strong>SimpleDeskClock</strong> is a transparent, borderless desktop clock for macOS — floating above your wallpaper with clean typography and minimal UI.  
+  <strong>SimpleDeskClock</strong> is a transparent, borderless desktop clock for macOS — floating above your wallpaper with clean typography and minimal UI.<br>
   Designed to be aesthetic, lightweight, and distraction-free.
 </p>
 
@@ -49,17 +49,21 @@
   <li>🚀 Launch the app → menu bar icon appears</li>
 </ol>
 
-
-
 <h2 style="font-family: 'Inter','SF Pro', Arial;">🛠 Controls</h2>
-> [!IMPORTANT]
-> We don't have an Apple Developer account yet. The application will show a popup on first launch that the app is from an unidentified developer.
-> 1. PLEASE Click **OK** to close the popup.
-> 2. Open **System Settings** > **Privacy & Security**.
-> 3. Scroll down and click **Open Anyway** next to the warning about the app.
-> 4. Confirm your choice if prompted.
->
-> THIS IS THE ONLY TIME YOU NEED TO DO THIS!
+
+<div style="border-left: 4px solid #f39c12; padding: 10px; background: #fff7e6; margin: 10px 0; font-family: 'Inter','SF Pro', Arial;">
+  <strong>⚠️ IMPORTANT:</strong><br>
+  We do not have an Apple Developer certificate yet. macOS will warn that the app is from an unidentified developer.<br><br>
+  <strong>How to open it the first time:</strong>
+  <ol>
+    <li>Click <strong>OK</strong> when the warning appears.</li>
+    <li>Open <strong>System Settings</strong> → <strong>Privacy & Security</strong>.</li>
+    <li>Scroll down and click <strong>Open Anyway</strong>.</li>
+    <li>Confirm if prompted.</li>
+  </ol>
+  You only need to do this once.
+</div>
+
 <ul style="font-family: 'Inter','SF Pro', Arial; line-height: 1.6;">
   <li>🕒 Click menu bar icon to open settings</li>
   <li>📌 Freeze — locks clock in place</li>
@@ -67,31 +71,18 @@
   <li>🔍 Size Slider — resizes text</li>
   <li>💬 Feedback — opens Google Form</li>
   <li>❌ Quit — fully closes the app</li>
-  <p align="center">
-  <img src="https://github.com/HancreHHH/SimpleDeskClock/blob/archive/testing.gif" alt="Demo GIF" />
-</p>
 </ul>
+
+<p align="center">
+  <img src="https://github.com/HancreHHH/SimpleDeskClock/blob/archive/testing.gif" alt="Demo GIF" width="500">
+</p>
 
 <h2 style="font-family: 'Inter','SF Pro', Arial;">🧾 Permissions & Notes</h2>
 <ul style="font-family: 'Inter','SF Pro', Arial; line-height: 1.6;">
   <li>No special permissions required</li>
-  <li>To run as menu-bar-only app, set <code>LSUIElement=YES</code> in Info.plist</li>
+  <li>To run as menu-bar-only app, set <code>LSUIElement=YES</code> in <code>Info.plist</code></li>
 </ul>
 
 <h2 style="font-family: 'Inter','SF Pro', Arial;">📌 Changelog</h2>
 <ul style="font-family: 'Inter','SF Pro', Arial; line-height: 1.6;">
-  <li><strong>v2.2</strong> — Remembers window + size | Menu bar slider | Feedback button | Version label | Quit button</li>
-  <li><strong>v2.1</strong> — First GUI release</li>
-</ul>
-
-<h2 style="font-family: 'Inter','SF Pro', Arial;">💬 Feedback</h2>
-<p style="font-family: 'Inter','SF Pro', Arial;">
-  Submit bugs & feature requests here:  
-  <a href="https://forms.gle/ignnbx8xVHA93BPy9" target="_blank" rel="noopener">https://forms.gle/ignnbx8xVHA93BPy9</a>
-</p>
-
-<hr>
-
-<p align="center" style="font-family: 'Inter','SF Pro', Arial; font-size: 14px; opacity: 0.7;">
-  Built with ☕ + ⌨️ by <strong>Henry H</strong>
-</p>
+  <li><s
